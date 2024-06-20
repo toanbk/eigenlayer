@@ -1,6 +1,6 @@
 operator:
-    address: 0x682F5c4Bc85fEeC8D042D324960318553a47B24D
-    earnings_receiver_address: 0x682F5c4Bc85fEeC8D042D324960318553a47B24D
+    address: 0x5C2C2C6562998D607Df62Ca7CB60Ef6467d3A658
+    earnings_receiver_address: 0x5C2C2C6562998D607Df62Ca7CB60Ef6467d3A658
     delegation_approver_address: "0x0000000000000000000000000000000000000000"
     staker_opt_out_window_blocks: 0
     metadata_url: "https://raw.githubusercontent.com/toanbk/eigenlayer/main/operator/config/metadata.json"
